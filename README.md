@@ -2,7 +2,9 @@
 
 Use python read.py to use run the detector on your videos 
 
-(NOTE: I'm only providing the source code, in order for the model, please contact me)
+The pretrained model could be found here
+
+https://drive.google.com/drive/folders/1w-PbqLJ8b4c3OcwoSkzbdfdctOAfLlZ7?usp=sharing
 
 # Results
 
